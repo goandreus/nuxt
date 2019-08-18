@@ -1,6 +1,6 @@
 # project
 
-> My premium Nuxt.js project
+> Api Rest  Nuxt(vue)
 
 ## Build Setup
 
