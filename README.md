@@ -1,6 +1,6 @@
 # project
 
-> Api Rest  Nuxt(vue)
+> Api Rest Nuxt(vue)
 
 ## Build Setup
 
